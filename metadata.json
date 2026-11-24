@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Index Lab",
+  "description": "Quantitative tracking, multi-model curve fitting, and neural network forecasting terminal for flagship US, China, Korea, Japan, and Hong Kong equity indexes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
